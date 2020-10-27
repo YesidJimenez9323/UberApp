@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.6.0.aar/b5c3b3ce6ef5133c072003845283ebdc/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.6.0.aar/b5c3b3ce6ef5133c072003845283ebdc/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.6.0.aar/b5c3b3ce6ef5133c072003845283ebdc/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.6.0.aar/c8cb4394e4fc667c9876a183889463ce/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.6.0.aar/c8cb4394e4fc667c9876a183889463ce/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.6.0.aar/c8cb4394e4fc667c9876a183889463ce/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

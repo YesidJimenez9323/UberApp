@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.6.0.aar/15b7f98c876d809eec033ea726d3d7cd/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.6.0.aar/15b7f98c876d809eec033ea726d3d7cd/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.6.0.aar/15b7f98c876d809eec033ea726d3d7cd/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.6.0.aar/5abbc339e48ec3ca0db473c0b647b4ec/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.6.0.aar/5abbc339e48ec3ca0db473c0b647b4ec/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.6.0.aar/5abbc339e48ec3ca0db473c0b647b4ec/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

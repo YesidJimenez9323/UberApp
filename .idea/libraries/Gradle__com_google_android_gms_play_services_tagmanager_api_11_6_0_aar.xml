@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.6.0.aar/414099702e1e339f754b38ec98fa896b/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.6.0.aar/414099702e1e339f754b38ec98fa896b/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.6.0.aar/414099702e1e339f754b38ec98fa896b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.6.0.aar/e9630a8a9cad54f03dd6096a89f073f1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.6.0.aar/e9630a8a9cad54f03dd6096a89f073f1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.6.0.aar/e9630a8a9cad54f03dd6096a89f073f1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/ef2324b678b04c3543d158c1ddd808a7/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/ef2324b678b04c3543d158c1ddd808a7/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/ef2324b678b04c3543d158c1ddd808a7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/97d1ffa7491ffdec221baf5be9f45051/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/97d1ffa7491ffdec221baf5be9f45051/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/97d1ffa7491ffdec221baf5be9f45051/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/geofire-android/2.1.1/444e908fa55e9f628d9492925989113ebe5121c9/geofire-android-2.1.1-javadoc.jar!/" />

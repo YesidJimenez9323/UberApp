@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-games-11.6.0.aar/452262ca80ecbe095acffa3ac9911c63/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-games-11.6.0.aar/452262ca80ecbe095acffa3ac9911c63/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-games-11.6.0.aar/452262ca80ecbe095acffa3ac9911c63/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-games-11.6.0.aar/35f72aaae2053b30f91b8b197d1d136a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-games-11.6.0.aar/35f72aaae2053b30f91b8b197d1d136a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-games-11.6.0.aar/35f72aaae2053b30f91b8b197d1d136a/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

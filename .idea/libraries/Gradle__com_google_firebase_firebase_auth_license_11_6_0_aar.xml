@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/e18c0f4f9811b1d2fc3aeebcd710c0ca/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/e18c0f4f9811b1d2fc3aeebcd710c0ca/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/e18c0f4f9811b1d2fc3aeebcd710c0ca/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/d57ad4e0c586745f7334491f64df65de/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/d57ad4e0c586745f7334491f64df65de/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/d57ad4e0c586745f7334491f64df65de/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
